@@ -8,28 +8,26 @@ This patch is not stable and might still cause crashing, I will attempt to conti
 
 The uploaded version is the most stable. I am unsure whether or not the mod will work if you run / apply any of the settings..
 
-Normal patched version is version 3.6.0 . 
+Normal patched version is version 3.6.0.1 .
 
-I did add one version that's slightly tweaked (version 3.6.1). Included in this version:
+I did add one version that's slightly tweaked (version 3.6.1.1). Included in this version:
 
-- Added costs to buildings on the strategic map
-- Increased money gain from buildings on the strategic map
+* Added costs to buildings on the strategic map
+* Increased money gain from buildings on the strategic map
 
 To install:
 
 1. Create a new mod in the AOTR Launcher
-
 2. Open the mod folder
-
 3. Upload everything from the main folder (without .git, .gitignore and other git files) to the modfolder
-
 4. Enable the mod
-
 5. Launch AOTR
 
-Known issues (to be fixed by v3.6.0.1 and v3.6.1.1):
 
-- Some pink units
+
+Better version control coming soon.
+
+
 
 Elen síla lúmenn' omentielvo
 
