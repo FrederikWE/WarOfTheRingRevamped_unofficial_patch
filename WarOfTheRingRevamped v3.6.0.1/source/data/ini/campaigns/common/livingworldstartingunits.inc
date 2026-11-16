@@ -869,15 +869,15 @@ End
 ;	Name = Angmar_StartingArmy
 ;	DisplayNameTag = LWA:AngmarGarrison
 ;	ArmyEntry
-;		ThingTemplate = AngmarDarkDunedainHordeLOALW 
+;		ThingTemplate = AngmarDarkDunedainHorde 
 ;		Quantity = 1
 ;	End
 ;	ArmyEntry
-;		ThingTemplate = AngmarDarkRangerHordeLOALW 
+;		ThingTemplate = AngmarDarkRangerHorde 
 ;		Quantity = 1
 ;	End
 ;        ArmyEntry
-;                ThingTemplate = AngmarThrallMasterLOALW
+;                ThingTemplate = AngmarThrallMaster
 ;                Quantity = 1
 ;        End
 ;End    

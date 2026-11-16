@@ -1723,11 +1723,20 @@ LivingWorldPlayerArmy
 	End
 End
 
-;////////// Rohan //////////
-
 LivingWorldPlayerArmy
 	Name = MoW_CreateAHeroArmy
 	DisplayNameTag = LWA:MenOfTheWest
+	ArmyEntry
+		ThingTemplate = CreateAHero
+		Quantity = 1
+	End
+End
+
+;////////// Rohan //////////
+
+LivingWorldPlayerArmy
+	Name = Rohan_CreateAHeroArmy
+	DisplayNameTag = LWA:Rohan
 	ArmyEntry
 		ThingTemplate = CreateAHero
 		Quantity = 1

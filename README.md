@@ -2,6 +2,8 @@ This patch is supposed to make War of the Ring REVAMPED work with version 9.3 of
 
 I take no credibility in creating this mod, only in "fixing" it for the latest version of Age of the Ring (9.3).
 
+Updated for Age of the Ring 10.0.2. Every game file the mod replaces (the global INIs, the Living World/strategic files, the fortress/porter/unit files and the WotR battle maps) is now 10.0.2's version with the mod's changes merged back in. Versions of this patch made for 9.3.x crash on startup with AOTR 10.0.
+
 The original creator is TheLordofAngmar and the official page for this mod can be found on: https://www.moddb.com/mods/war-of-the-ring-revamped-an-aotr-submod .
 
 This patch is not stable and might still cause crashing, I will attempt to continue improving untill the original creator returns.
