@@ -1,8 +1,8 @@
-This patch is supposed to make War of the Ring REVAMPED work with version 9.3 of Age of the Ring mod for Battle for Middle-Earth 2: Rise of the Witch King.
+This patch is supposed to make War of the Ring REVAMPED work with version 10.0.2 of Age of the Ring mod for Battle for Middle-Earth 2: Rise of the Witch King.
 
-I take no credibility in creating this mod, only in "fixing" it for the latest version of Age of the Ring (9.3).
+I take no credibility in creating this mod, only in "fixing" it for the latest version of Age of the Ring (10.0.2).
 
-Updated for Age of the Ring 10.0.2. Every game file the mod replaces (the global INIs, the Living World/strategic files, the fortress/porter/unit files and the WotR battle maps) is now 10.0.2's version with the mod's changes merged back in. Versions of this patch made for 9.3.x crash on startup with AOTR 10.0.
+Every game file the mod replaces (the global INIs, the Living World/strategic files and the fortress/porter/unit files) is now 10.0.2's version with the mod's changes merged back in. The WotR battle maps are the mod's own, unchanged. Versions of this patch made for AOTR 9.3.x crash on startup with AOTR 10.0.
 
 The original creator is TheLordofAngmar and the official page for this mod can be found on: https://www.moddb.com/mods/war-of-the-ring-revamped-an-aotr-submod .
 
